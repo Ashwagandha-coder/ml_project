@@ -1,2 +1,6 @@
-# my_project
+# Projects
+
+## Description
 This repository contains my machine learning project
+
+## List
